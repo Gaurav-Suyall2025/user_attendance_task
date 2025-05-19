@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "793861901677",
+    "project_id": "user-attendance-127bf",
+    "storage_bucket": "user-attendance-127bf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793861901677:android:3cf925e7c8c0074bf29e64",
+        "android_client_info": {
+          "package_name": "com.suyal.user_attendance_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPaQZHkQ351GEtYA9C5m_7qotD8F0tikA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
